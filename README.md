@@ -107,8 +107,8 @@ Results of pre-trained models are shown below:
 | Model                                            | Dataset                                                                     | Bit |  DDTB(Ours)    |
 |--------------------------------------------------|-----------------------------------------------------------------------------|-----|----------------------|
 | EDSRx4 |                     Set5                                                        |  2  |             30.97/0.876         |               
-|                                                  |                                                                             | [3](https://drive.google.com/file/d/1N68cmRryRuv02ya7s7iU0xKMGZHapuAP/view?usp=sharing)   |  31.52/0.883   |
-|                                                  |                                                                             | [4](https://drive.google.com/file/d/1AEQb2-FDXGN_cJTi9lIzm-ZwMi420MtI/view?usp=sharing)   |  31.85/0.889   |
+|                                                  |                                                                             | 3   |  31.52/0.883   |
+|                                                  |                                                                             | 4   |  31.85/0.889   |
 |                                                  | Set14      |  2   |                  27.87/0.764    |
 |                                                  |                                                                             | 3   |  28.18/0.771   |
 |                                                  |                                                                             | 4   |  28.39/0.777   |
