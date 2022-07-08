@@ -1,4 +1,4 @@
-# Code for our paper: Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks [paper](https://arxiv.org/abs/2203.03844)
+# ECCV2022 Paper - Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks [paper](https://arxiv.org/abs/2203.03844)
 
 ## Dependence
 * Python 3.6
